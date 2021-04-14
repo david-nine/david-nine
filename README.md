@@ -8,7 +8,7 @@
 
 ![Flask](https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png =90x120);
 
-![Java](https://logospng.org/download/java/logo-java-256.png =130x130);
+![Java](https://logospng.org/download/java/logo-java-256.png);
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

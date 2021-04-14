@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**david-nine/david-nine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-!Python
-
 
 ![Python](https://img2.gratispng.com/20180806/fv/kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155.2506144815335488485105.jpg =80x80)
 ![MySQL](https://img2.gratispng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg =120x90)
@@ -22,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

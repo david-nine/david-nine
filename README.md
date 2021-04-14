@@ -2,7 +2,7 @@
 
 <img width="140px" height="55px" src="https://www.python.org/static/img/python-logo.png"></img>
 <img with="110px" height="90px" float="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></img>
-<img with="80px" height="80px" src="https://w7.pngwing.com/pngs/581/330/png-transparent-logo-cascading-style-sheets-html5-css3-prags-html5-und-css3-der-meisterkurs-html5-css3-javascript-design-text-trademark-logo.png"></img>
+<img with="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></img>
 <img with="80px" height="80px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></img>
 <img with="80px" height="80px" src="https://logospng.org/download/java/logo-java-256.png"></img>
 

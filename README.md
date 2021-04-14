@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.python.org/static/img/python-logo.png"></img>
+<img width="90px" height="100px" src="https://www.python.org/static/img/python-logo.png"></img>
 <img with="80px" height="80px" float="left" src="https://img2.gratispng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg"></img>
 <img with="80px" height="80px" src="https://w7.pngwing.com/pngs/581/330/png-transparent-logo-cascading-style-sheets-html5-css3-prags-html5-und-css3-der-meisterkurs-html5-css3-javascript-design-text-trademark-logo.png"></img>
 <img with="80px" height="80px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></img>

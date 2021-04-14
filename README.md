@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<img with="80px" height="80px" src="https://img2.gratispng.com/20180806/fv/kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155.2506144815335488485105.jpg">Python</img>
+<img with="80px" height="80px" src="https://img2.gratispng.com/20180806/fv/kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155.2506144815335488485105.jpg"></img>
 
-<img with="80px" height="80px" src="https://img2.gratispng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg">MySQL</img>
+<img with="80px" height="80px" src="https://img2.gratispng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg"></img>
 
-<img with="80px" height="80px" src="https://w7.pngwing.com/pngs/581/330/png-transparent-logo-cascading-style-sheets-html5-css3-prags-html5-und-css3-der-meisterkurs-html5-css3-javascript-design-text-trademark-logo.png">HTML e CSS</img>
+<img with="80px" height="80px" src="https://w7.pngwing.com/pngs/581/330/png-transparent-logo-cascading-style-sheets-html5-css3-prags-html5-und-css3-der-meisterkurs-html5-css3-javascript-design-text-trademark-logo.png"></img>
 
-<img with="80px" height="80px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png">Flask</img>
+<img with="80px" height="80px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></img>
 
-<img with="80px" height="80px" src="https://logospng.org/download/java/logo-java-256.png">Java</img>
+<img with="80px" height="80px" src="https://logospng.org/download/java/logo-java-256.png"></img>
 
 
 - 🔭 I’m currently working on ...

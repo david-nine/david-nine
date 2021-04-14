@@ -6,7 +6,7 @@
 <img with="120px" height="90px" float="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></img>
 <img with="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></img>
 <img with="92px" height="92px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></img>
-<img with="90px" height="90px" src="https://logospng.org/download/java/logo-java-256.png"></img>
+<img with="100px" height="100px" src="https://logospng.org/download/java/logo-java-256.png"></img>
 <img with="70px" height="70px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"><img>
 
 ### And use this IDEs

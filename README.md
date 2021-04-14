@@ -11,8 +11,8 @@
 
 ### And use this IDEs
 
-<img with="60px" height="60px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></img>
-<img with="60px" height="60px" src="http://www.macupdate.com/images/icons256/11662.png"></img>
+<img with="70px" height="70px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></img>
+<img with="70px" height="70px" src="http://www.macupdate.com/images/icons256/11662.png"></img>
 <img with="55px" height="55px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--leRXbveB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e8mbu9fj74hjntyt8lhh.png"></img>
 <img with="70px" height="70px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png"></img>
 

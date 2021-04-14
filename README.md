@@ -14,6 +14,8 @@
 
 <img with="60px" height="60px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></img>
 <img with="60px" height="60px" src="http://www.macupdate.com/images/icons256/11662.png"></img>
-<img with="60px" height="60px" src=""></img>
-<img with="60px" height="60px" src=""></img>
-<img with="60px" height="60px" src=""></img>
+<img with="55px" height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png"></img>
+
+
+
+<!--<img with="60px" height="60px" src=""></img>

@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img src="https://wiki.python.org/wiki/europython/img/python-logo.gif"></img>
-<img with="100px" height="83px" float="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></img> 
-<img with="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></img> 
-<img with="80px" height="80px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></img> 
-<img with="80px" height="80px" src="https://logospng.org/download/java/logo-java-256.png"></img>
+<img width="60px" height="60px" src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png"></img>
+<img with="100px" height="83px" float="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></img>
+<img with="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></img>
+<img with="80px" height="80px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></img>
+<img with="90px" height="90px" src="https://logospng.org/download/java/logo-java-256.png"></img>
 
 
 - 🔭 I’m currently working on ...

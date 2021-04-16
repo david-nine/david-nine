@@ -1,6 +1,6 @@
 # David Hildebrandt
 
-### I'm programing in this languages and framworks
+### I program in this languages and framworks
 
 <img width="70px" height="70px" src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png"></img>
 <img with="120px" height="90px" float="left" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></img>

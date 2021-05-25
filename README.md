@@ -3,5 +3,3 @@
 [<img src='https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png' alt='mysql' height='55'>](https://www.mysql.com/)  [<img src='https://img.icons8.com/color/452/postgreesql.png' alt='postgresql' height='55'>](https://www.postgresql.org/)  [<img src='https://img.icons8.com/color/452/spring-logo.png' alt='spring' height='55'>](https://spring.io/)  [<img src='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg' alt='vsco' height='55'>](https://code.visualstudio.com/)  [<img src='http://www.macupdate.com/images/icons256/11662.png' alt='eclipseide' height='55'>](https://www.eclipse.org/)  
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-nine)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=david-nine&show_icons=true)  

@@ -1,5 +1,5 @@
 ### Python
-[<img src='https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png' alt='python' height='55'>](https://www.python.org/)  [<img src='https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png' alt='django' height='55'>](https://www.djangoproject.com/)  [<img src='https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png' alt='flask' height='55'>](https://flask.palletsprojects.com/en/2.0.x/)
+[<img src='https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png' alt='python' height='55'>](https://www.python.org/)  [<img src='https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png' alt='django' height='55'>](https://www.djangoproject.com/)  [<img src='https://brandslogos.com/wp-content/uploads/images/large/flask-logo.png' alt='flask' height='55'>](https://flask.palletsprojects.com/en/2.0.x/)
 
 ### Java
 [<img src='https://logospng.org/download/java/logo-java-256.png' alt='java' height='65'>](https://www.java.com/en/)  [<img src='https://img.icons8.com/color/452/spring-logo.png' alt='spring' height='55'>](https://spring.io/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png' alt='angular' height='60'>](https://angular.io/)

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-nine&label=Profile%20views&color=0e75b6&style=flat" alt="david-nine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-nine" alt="david-nine" /></a> </p>
+</a> </p>
 
 - 🔭 I’m currently working on **Senior Sistemas**
 
